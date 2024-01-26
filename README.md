@@ -39,3 +39,12 @@ By downloading or using the data, you understand, acknowledge, and agree to all 
 --------------
 
 If you have further questions, you may contact: Wenjing Wang (daooshee@pku.edu.cn)
+
+```
+@article{videofactory,
+  title={VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation},
+  author={Wang, Wenjing and Yang, Huan and Tuo, Zixi and He, Huiguo and Zhu, Junchen and Fu, Jianlong and Liu, Jiaying},
+  journal={arXiv preprint arXiv:2305.10874},
+  year={2023}
+}
+```
