@@ -7,7 +7,7 @@ We curate a large-scale video dataset called HD-VG-130M. This dataset comprises 
 
 --------------
 
-Download link: [To-be-released in hours](url)
+Download link: [Google Drive](https://drive.google.com/drive/folders/154S6raNg9NpDGQRlRhhAaYcAx5xq1Ok8?usp=sharing).
 
 🎉 Up to January 2024, our dataset has been downloaded by more than 50 universities and research institutes!
 
