@@ -4,6 +4,7 @@ This is the dataset from the paper ["VideoFactory: Swap Attention in Spatiotempo
 
 We curate a large-scale video dataset called HD-VG-130M. This dataset comprises 130 million text-video pairs from the open-domain, ensuring high-definition, widescreen and watermark-free characters.
 
+UPDATE: We have created a new higher-quality 40M subset, taking into account text, motion, and aesthetics. This subset will be released soon.
 
 --------------
 
